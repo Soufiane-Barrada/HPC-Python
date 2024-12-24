@@ -73,6 +73,3 @@ Articles and videos of the course are also available in a simple form in this [s
  - [Rotation with broadcasting](numpy/broadcast-rotation)
  - [Two dimensional heat equation](numpy/heat-equation)
  - [Parallel heat equation](mpi/heat-equation)
-
-
-TEST
